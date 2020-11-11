@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "br/2HG0jUVl1IxE2RBOFbxAgEQ5LhbwCcUl4i8wNt6zYnwzXLsomKMS8HGMqfDWq9e9a8CMj5ZzrFg9Wmr84IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chijioke.molokwu\\source\\repos\\TripTrackerLive\\TripTracker.BackService\\TripTracker.BackService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chijioke.molokwu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\chijioke.molokwu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\chijioke.molokwu\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\chijioke.molokwu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\chijioke.molokwu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\chijioke.molokwu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\chijioke.molokwu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
